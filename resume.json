@@ -32,13 +32,14 @@
     {
       "company": "The Godspeed Company",
       "location": "Abu Dhabi, United Arab Emirates",
-      "position": "Co-founder, Lead Web Developer",
+      "position": "Co-founder, CTO, Lead Web Developer",
       "website": "",
       "startDate": "Jun 2024",
       "endDate": "Aug 2024",
       "highlights": [
         "Used React and Next.js to build a full-stack website that connects teenagers with professional opportunities they're passionate about.",
         "Used Python and Django to create a backend service that takes responses from a personality quiz and suggests careers that the quiz taker may like.",
+        "Scraped 13,000+ LinkedIn profiles using Python/Selenium to determine target audience and raise awareness about our company.",
         "Organized and led a team of full-stack software developers."
       ]
     },
