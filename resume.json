@@ -1,0 +1,155 @@
+{
+  "selectedTemplate": 1,
+  "basics": {
+    "name": "Rehatbir Singh",
+    "email": "rehatbir.singh@gmail.com",
+    "website": "codeboi.dev",
+    "location": {
+      "address": "Madison, WI"
+    }
+  },
+  "education": [
+    {
+      "institution": "University of Wisconsin-Madison",
+      "location": "Madison, WI",
+      "area": "Computer Science",
+      "startDate": "Sep 2024",
+      "endDate": "Jun 2028",
+      "studyType": "BS",
+      "gpa": "TBD"
+    },
+    {
+      "institution": "Mayoor Private School",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "studyType": "Central Board of Secondary Education, India",
+      "area": "Science Stream",
+      "gpa": "97.2/100",
+      "startDate": "Apr 2020",
+      "endDate": "Mar 2024"
+    }
+  ],
+  "work": [
+    {
+      "company": "The Godspeed Company",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "position": "Co-founder, Lead Web Developer",
+      "website": "",
+      "startDate": "Jun 2024",
+      "endDate": "Aug 2024",
+      "highlights": [
+        "Used React and Next.js to build a full-stack website that connects teenagers with professional opportunities they're passionate about.",
+        "Used Python and Django to create a backend service that takes responses from a personality quiz and suggests careers that the quiz taker may like.",
+        "Organized and led a team of full-stack software developers."
+      ]
+    },
+    {
+      "highlights": [
+        "Used Python with Discord.py and Pycord to develop chatbots for Discord according to varying customer requirements.",
+        "Learned to use third-party APIs (eg: Google Docs, Microsoft Office, Reddit API, etc.) and integrated them into a chat-based user interface."
+      ],
+      "company": "Freelance on Fiverr",
+      "position": "Discord Bot Developer",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "startDate": "Feb 2021",
+      "endDate": "Oct 2022"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Swift",
+        "JavaScript/TypeScript",
+        "C/C++",
+        "Rust",
+        "Git (VCS)"
+      ]
+    },
+    {
+      "keywords": [
+        "Django",
+        "Flask",
+        "SQLAlchemy",
+        "SwiftUI",
+        "React",
+        "Next.js",
+        "Leptos",
+        "Axum",
+        "Selenium",
+        "Godot"
+      ],
+      "name": "Libraries"
+    },
+    {
+      "keywords": [
+        "Docker",
+        "Nginx",
+        "PostgreSQL",
+        "MySQL",
+        "Linux"
+      ],
+      "name": "Technologies"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Blitz Board",
+      "url": "https://blitz.codeboi.dev",
+      "keywords": [
+        "Python",
+        "Flask",
+        "Socket.io",
+        "HTML",
+        "Tailwind",
+        "JavaScript",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "Docker"
+      ],
+      "description": "A multiplayer typing web game. Driven by my love for typing, I created a platform where competitive typists could connect and compete in real-time typing tests."
+    },
+    {
+      "keywords": [
+        "Python",
+        "Pycord (Discord API)",
+        "PostgreSQL",
+        "SQLAlchemy"
+      ],
+      "name": "Sparta Bot",
+      "description": "TODO",
+      "url": "https://github.com/SpartaDevTeam/SpartaBot"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "TODO",
+      "description": "TODO"
+    }
+  ],
+  "awards": [
+    {
+      "title": "CBSE School Topper",
+      "summary": "Recognized for being the highest overall scorer in my school for Grade 12 CBSE Board examinations.",
+      "date": "Jun 2024",
+      "awarder": "Mayoor Private Schol"
+    },
+    {
+      "title": "TODO",
+      "date": "TODO",
+      "awarder": "TODO",
+      "summary": "TODO"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "projects",
+    "skills",
+    "awards"
+  ]
+}
