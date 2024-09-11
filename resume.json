@@ -96,38 +96,44 @@
   ],
   "projects": [
     {
-      "name": "Blitz Board",
-      "url": "https://blitz.codeboi.dev",
+      "name": "Drippr",
+      "url": "TODO",
+      "keywords": [
+        "Swift",
+        "SwiftUI",
+        "Supabase",
+        "RealityKit",
+        "Xcode"
+      ],
+      "description": "TODO"
+    },
+    {
       "keywords": [
         "Python",
         "Flask",
         "Socket.io",
-        "HTML",
+        "HTML5",
         "Tailwind",
         "JavaScript",
         "PostgreSQL",
         "SQLAlchemy",
         "Docker"
       ],
-      "description": "A multiplayer typing web game. Driven by my love for typing, I created a platform where competitive typists could connect and compete in real-time typing tests."
+      "name": "Blitz Board",
+      "description": "A multiplayer typing web game. Driven by my love for typing, I created a platform where competitive typists could connect and compete in real-time typing tests.",
+      "url": "https://blitz.codeboi.dev"
     },
     {
       "keywords": [
         "Python",
         "Pycord (Discord API)",
         "PostgreSQL",
-        "SQLAlchemy"
+        "SQLAlchemy",
+        "Linux"
       ],
       "name": "Sparta Bot",
       "description": "TODO",
       "url": "https://github.com/SpartaDevTeam/SpartaBot"
-    },
-    {
-      "keywords": [
-        ""
-      ],
-      "name": "TODO",
-      "description": "TODO"
     }
   ],
   "awards": [
