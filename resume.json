@@ -65,6 +65,7 @@
         "JavaScript/TypeScript",
         "C/C++",
         "Rust",
+        "Java",
         "Dart",
         "Git (VCS)"
       ]
@@ -92,6 +93,15 @@
         "Linux"
       ],
       "name": "Technologies"
+    },
+    {
+      "keywords": [
+        "Problem Solving",
+        "Communication",
+        "Team Work",
+        "Making Filter Coffee"
+      ],
+      "name": "Others"
     }
   ],
   "projects": [
