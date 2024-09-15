@@ -1,5 +1,6 @@
 {
   "selectedTemplate": 1,
+  "headings": {},
   "basics": {
     "name": "Rehatbir Singh",
     "email": "rehatbir.singh@gmail.com",
@@ -11,7 +12,7 @@
   "education": [
     {
       "institution": "University of Wisconsin-Madison",
-      "location": "Madison, WI",
+      "location": "Madison, WI, USA",
       "area": "Computer Science",
       "startDate": "Sep 2024",
       "endDate": "Jun 2028",
@@ -99,7 +100,7 @@
         "Problem Solving",
         "Communication",
         "Teamwork",
-        "Making Filter Coffee"
+        "Making Great Coffee"
       ],
       "name": "Others"
     }
@@ -107,7 +108,6 @@
   "projects": [
     {
       "name": "Drippr",
-      "url": "TODO",
       "keywords": [
         "Swift",
         "SwiftUI",
@@ -115,34 +115,32 @@
         "RealityKit",
         "Xcode"
       ],
-      "description": "TODO"
+      "description": "An iOS app for coffee enthusiasts to explore and create recipes for methods like V60, Chemex, and Aeropress. It offers a recipe browser, customizable recipes, and AR tutorials. With a dynamic step-by-step timer, it simplifies brewing for beginners. Designed with a native iOS feel for a seamless user experience."
     },
     {
       "keywords": [
         "Python",
         "Flask",
-        "Socket.io",
-        "HTML5",
-        "Tailwind",
         "JavaScript",
+        "HTML5/Tailwind",
+        "WebSockets",
         "PostgreSQL",
-        "SQLAlchemy",
         "Docker"
       ],
       "name": "Blitz Board",
-      "description": "A multiplayer typing web game. Driven by my love for typing, I created a platform where competitive typists could connect and compete in real-time typing tests.",
+      "description": "A real-time multiplayer typing game, inspired by my passion for typing. It brings competitive typists together for live typing tests, featuring performance tracking and leaderboards to foster a community of speed and accuracy enthusiasts.",
       "url": "https://blitz.codeboi.dev"
     },
     {
       "keywords": [
         "Python",
-        "Pycord (Discord API)",
+        "Discord API",
         "PostgreSQL",
         "SQLAlchemy",
         "Linux"
       ],
       "name": "Sparta Bot",
-      "description": "TODO",
+      "description": "A custom Discord bot for server management, offering auto-moderation, reaction roles, message sniping, and automated responses. It also includes music integration and fun commands to promote member engagement in communities.",
       "url": "https://github.com/SpartaDevTeam/SpartaBot"
     }
   ],
