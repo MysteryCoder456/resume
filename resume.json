@@ -1,13 +1,16 @@
 {
   "selectedTemplate": 1,
-  "headings": {},
+  "headings": {
+    "work": "Experience"
+  },
   "basics": {
     "name": "Rehatbir Singh",
     "email": "rehatbir.singh@gmail.com",
     "website": "codeboi.dev",
     "location": {
       "address": "Madison, WI"
-    }
+    },
+    "phone": "+1 (608) 213 0016"
   },
   "education": [
     {
@@ -15,7 +18,7 @@
       "location": "Madison, WI, USA",
       "area": "Computer Science",
       "startDate": "Sep 2024",
-      "endDate": "Jun 2028",
+      "endDate": "May 2028",
       "studyType": "BS",
       "gpa": "TBD"
     },
@@ -38,10 +41,9 @@
       "startDate": "Jun 2024",
       "endDate": "Aug 2024",
       "highlights": [
-        "Used React and Next.js to build a full-stack website that connects teenagers with professional opportunities they're passionate about.",
+        "Organized and led a team of full-stack developers that used React and Next.js to build a website that connects teenagers with professional opportunities they're passionate about.",
         "Used Python and Django to create a backend service that takes responses from a personality quiz and suggests careers that the quiz taker may like.",
-        "Scraped 13,000+ LinkedIn profiles using Python/Selenium to determine target audience and raise awareness about our company.",
-        "Organized and led a team of full-stack software developers."
+        "Scraped 13,000+ LinkedIn profiles using Python/Selenium to determine target audience and raise awareness about our company."
       ]
     },
     {
@@ -54,6 +56,17 @@
       "location": "Abu Dhabi, United Arab Emirates",
       "startDate": "Feb 2021",
       "endDate": "Oct 2022"
+    },
+    {
+      "highlights": [
+        "Mentored 18 classmates on technology and IT, while presenting weekly reports on issues to IT staff.",
+        "Recognized as \"Best Digital Leader\" for the 2021-2022 academic year for leadership in tech education."
+      ],
+      "company": "Class Digital Leader",
+      "position": "Leadership Experience in High School",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "startDate": "May 2021",
+      "endDate": "March 2022"
     }
   ],
   "skills": [
@@ -100,7 +113,8 @@
         "Problem Solving",
         "Communication",
         "Teamwork",
-        "Making Great Coffee"
+        "Making Great Coffee",
+        "Playing the Guitar"
       ],
       "name": "Others"
     }
@@ -115,7 +129,7 @@
         "RealityKit",
         "Xcode"
       ],
-      "description": "An iOS app for coffee enthusiasts to explore and create recipes for methods like V60, Chemex, and Aeropress. It offers a recipe browser, customizable recipes, and AR tutorials. With a dynamic step-by-step timer, it simplifies brewing for beginners. Designed with a native iOS feel for a seamless user experience."
+      "description": "An iOS app for coffee enthusiasts to explore and create recipes for brewers like V60, Chemex, and Aeropress. It offers a recipe browser, customizable recipes, and AR tutorials. With a dynamic step-by-step timer, it simplifies brewing for beginners. Designed with a native iOS feel for a seamless user experience."
     },
     {
       "keywords": [
@@ -128,7 +142,7 @@
         "Docker"
       ],
       "name": "Blitz Board",
-      "description": "A real-time multiplayer typing game, inspired by my passion for typing. It brings competitive typists together for live typing tests, featuring performance tracking and leaderboards to foster a community of speed and accuracy enthusiasts.",
+      "description": "A real-time multiplayer typing game nearly 300 total games played, inspired by my passion for typing. It brings competitive typists together for live typing tests, featuring performance tracking and leaderboards to foster a community of speed and accuracy enthusiasts.",
       "url": "https://blitz.codeboi.dev"
     },
     {
@@ -140,7 +154,7 @@
         "Linux"
       ],
       "name": "Sparta Bot",
-      "description": "A custom Discord bot for server management, offering auto-moderation, reaction roles, message sniping, and automated responses. It also includes music integration and fun commands to promote member engagement in communities.",
+      "description": "A custom Discord bot for server management, offering auto-moderation, reaction roles, message sniping, and automated responses that serves 150,000+ users across 300+ communities. It also includes music integration and fun commands to promote member engagement.",
       "url": "https://github.com/SpartaDevTeam/SpartaBot"
     }
   ],
@@ -152,10 +166,10 @@
       "awarder": "Mayoor Pvt. School"
     },
     {
-      "title": "TODO",
-      "date": "TODO",
-      "awarder": "TODO",
-      "summary": "TODO"
+      "title": "1st Place in CodeQuest 2023",
+      "date": "Nov 2023",
+      "awarder": "Bright Riders School",
+      "summary": "Competed to solve two Leetcode programming problems in Python in under 3 hours, with a focus on speed, correctness, readability, and time-space efficiency."
     }
   ],
   "sections": [
