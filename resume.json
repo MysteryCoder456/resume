@@ -48,7 +48,7 @@
     },
     {
       "highlights": [
-        "Used Python with Discord.py and Pycord to develop chatbots for Discord according to varying customer requirements.",
+        "Used Python with the Pycord library to develop Discord chatbots for seven returning customers according to varying customer requirements, earning a total of $84.",
         "Learned to use third-party APIs (eg: Google Docs, Microsoft Office, Reddit API, etc.) and integrated them into a chat-based user interface."
       ],
       "company": "Freelance on Fiverr",
@@ -169,7 +169,7 @@
       "title": "1st Place in CodeQuest 2023",
       "date": "Nov 2023",
       "awarder": "Bright Riders School",
-      "summary": "Competed to solve two Leetcode programming problems in Python in under 3 hours, with a focus on speed, correctness, readability, and time-space efficiency."
+      "summary": "Competed against 15 other programmers to solve two Leetcode programming problems in Python in under 3 hours, with a focus on speed, correctness, readability, and time-space efficiency."
     }
   ],
   "sections": [
