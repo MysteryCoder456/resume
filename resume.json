@@ -160,16 +160,16 @@
   ],
   "awards": [
     {
-      "title": "CBSE School Topper",
-      "summary": "Recognized for being the highest overall scorer, as well as highest scorer in Physics and Mathematics, in my school for Grade 12 CBSE Board examinations.",
-      "date": "Jun 2024",
-      "awarder": "Mayoor Pvt. School"
+      "title": "1st Place in CodeQuest 2023",
+      "summary": "Competed against 15 other programmers to solve two Leetcode programming problems in Python in under 3 hours, with a focus on speed, correctness, readability, and time-space efficiency.",
+      "date": "Nov 2023",
+      "awarder": "Bright Riders School"
     },
     {
-      "title": "1st Place in CodeQuest 2023",
-      "date": "Nov 2023",
-      "awarder": "Bright Riders School",
-      "summary": "Competed against 15 other programmers to solve two Leetcode programming problems in Python in under 3 hours, with a focus on speed, correctness, readability, and time-space efficiency."
+      "title": "Winner of iOS App Dev Challenge",
+      "awarder": "MDS UAE",
+      "summary": "Developed Earthify, an open-source sustainability marketplace app for recirculating used goods. Won first place overall and was a finalist in the environment category.",
+      "date": "Dec 2021"
     }
   ],
   "sections": [
