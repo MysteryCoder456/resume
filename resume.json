@@ -154,7 +154,7 @@
         "Linux"
       ],
       "name": "Sparta Bot",
-      "description": "A custom Discord bot for server management, offering auto-moderation, reaction roles, message sniping, and automated responses that serves 150,000+ users across 300+ communities. It also includes music integration and fun commands to promote member engagement.",
+      "description": "An open-source custom Discord bot for server management, offering auto-moderation, reaction roles, message sniping, and automated responses that serves 150,000+ users across 300+ communities. It also includes music integration and fun commands to promote member engagement.",
       "url": "https://github.com/SpartaDevTeam/SpartaBot"
     }
   ],
