@@ -34,10 +34,20 @@
   ],
   "work": [
     {
+      "company": "Data Science for Sustainable Development @ UW-Madison",
+      "location": "Madison, WI, USA",
+      "position": "Student Developer",
+      "startDate": "Sep 2024",
+      "endDate": "Present",
+      "highlights": [
+        "Contributed to Red-CORAL, an open-source crime visualization tool for organized crime in Central America aligned with UN SDG 16, by developing a statistics dashboard using React and Firebase.",
+        "Learned to integrate Node.js modules like Leaflet for geospatial visualization and Lucide for custom icons, while attending biweekly workshops on technicals skills and professional development."
+      ]
+    },
+    {
       "company": "The Godspeed Company",
       "location": "Abu Dhabi, United Arab Emirates",
       "position": "Co-founder, CTO, Lead Web Developer",
-      "website": "",
       "startDate": "Jun 2024",
       "endDate": "Aug 2024",
       "highlights": [
@@ -47,26 +57,15 @@
       ]
     },
     {
-      "highlights": [
-        "Used Python with the Pycord library to develop Discord chatbots for seven returning customers according to varying customer requirements, earning a total of $84.",
-        "Learned to use third-party APIs (eg: Google Docs, Microsoft Office, Reddit API, etc.) and integrated them into a chat-based user interface."
-      ],
-      "company": "Freelance on Fiverr",
-      "position": "Discord Bot Developer",
-      "location": "Abu Dhabi, United Arab Emirates",
-      "startDate": "Feb 2021",
-      "endDate": "Oct 2022"
-    },
-    {
-      "highlights": [
-        "Mentored 18 classmates on technology and IT, while presenting weekly reports on issues to IT staff.",
-        "Recognized as \"Best Digital Leader\" for the 2021-2022 academic year for leadership in tech education."
-      ],
       "company": "Class Digital Leader",
       "position": "Leadership Experience in High School",
       "location": "Abu Dhabi, United Arab Emirates",
       "startDate": "May 2021",
-      "endDate": "March 2022"
+      "endDate": "Mar 2022",
+      "highlights": [
+        "Mentored 18 classmates on technology and IT, while presenting weekly reports on issues to IT staff.",
+        "Recognized as \"Best Digital Leader\" for the 2021-2022 academic year for leadership in tech education."
+      ]
     }
   ],
   "skills": [
