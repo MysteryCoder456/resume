@@ -128,7 +128,8 @@
         "RealityKit",
         "Xcode"
       ],
-      "description": "An iOS app for coffee enthusiasts to explore and create recipes for brewers like V60, Chemex, and Aeropress. It offers a recipe browser, customizable recipes, and AR tutorials. With a dynamic step-by-step timer, it simplifies brewing for beginners. Designed with a native iOS feel for a seamless user experience."
+      "description": "An iOS app for coffee enthusiasts to explore and create recipes for brewers like V60, Chemex, and Aeropress. It offers a recipe browser, customizable recipes, and AR tutorials. With a dynamic step-by-step timer, it simplifies brewing for beginners. Designed with a native iOS feel for a seamless user experience.",
+      "url": "https://codeboi.dev/coffee"
     },
     {
       "keywords": [
