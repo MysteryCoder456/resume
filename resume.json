@@ -147,15 +147,14 @@
     },
     {
       "keywords": [
-        "Python",
-        "Discord API",
-        "PostgreSQL",
-        "SQLAlchemy",
-        "Linux"
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "OAuth"
       ],
-      "name": "Sparta Bot",
-      "description": "An open-source custom Discord bot for server management, offering auto-moderation, reaction roles, message sniping, and automated responses that serves 150,000+ users across 300+ communities. It also includes music integration and fun commands to promote member engagement.",
-      "url": "https://github.com/SpartaDevTeam/SpartaBot"
+      "name": "HeLP@MPS",
+      "url": "https://github.com/Ideal-Goggles/stem-2022",
+      "description": "A cross-platform app designed to combat food waste and unhealthy eating habits. Users post meal photos to receive ratings from the community, earning points and optionally competing within school groups. School staff can track and analyze food waste data for entire classes or grades using integrated tools."
     }
   ],
   "awards": [
