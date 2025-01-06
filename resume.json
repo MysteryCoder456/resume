@@ -20,7 +20,7 @@
       "startDate": "Sep 2024",
       "endDate": "May 2028",
       "studyType": "BS",
-      "gpa": "4.0"
+      "gpa": "4.0/4.0"
     },
     {
       "institution": "Mayoor Private School",
@@ -41,7 +41,7 @@
       "endDate": "Dec 2024",
       "highlights": [
         "Contributed to Red-CORAL, an open-source crime visualization tool for organized crime in Central America aligned with UN SDG 16, by developing a statistics dashboard using React and Firebase.",
-        "Learned to integrate Node.js modules like Leaflet for geospatial visualization and Lucide for custom icons, while attending biweekly workshops on technicals skills and professional development."
+        "Learned to integrate Node.js modules like Leaflet for geospatial visualization and Lucide for custom icons, while attending biweekly workshops on technical skills and professional development."
       ]
     },
     {
