@@ -16,7 +16,7 @@
     {
       "institution": "University of Wisconsin-Madison",
       "location": "Madison, WI, USA",
-      "area": "Computer Science",
+      "area": "Computer Sciences and Data Science",
       "startDate": "Sep 2024",
       "endDate": "May 2028",
       "studyType": "BS",
@@ -25,7 +25,7 @@
     {
       "institution": "Mayoor Private School",
       "location": "Abu Dhabi, United Arab Emirates",
-      "studyType": "Central Board of Secondary Education, India",
+      "studyType": "Indian Central Board of Secondary Education",
       "area": "Science Stream",
       "gpa": "97.2/100",
       "startDate": "Apr 2020",
@@ -176,8 +176,8 @@
     "profile",
     "education",
     "work",
-    "projects",
     "skills",
+    "projects",
     "awards"
   ]
 }
