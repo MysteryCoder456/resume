@@ -156,16 +156,16 @@
   ],
   "awards": [
     {
+      "title": "Honorable Mention in MadData Hackathon",
+      "date": "Feb 2025",
+      "awarder": "dotData @ UW-Madison",
+      "summary": "Recognized for building & presenting Wavelength, an app that analyzes Spotify libraries to connect students with similar music tastes using data science techniques and social discovery algorithms."
+    },
+    {
       "title": "Dean's List",
       "date": "Dec 2024",
       "awarder": "University of Wisconsin-Madison",
       "summary": "Recognized on the Dean’s List during my first semester at the University of Wisconsin–Madison for achieving a 4.0 GPA, exceeding the minimum requirement of a 3.6 GPA."
-    },
-    {
-      "title": "1st Place in CodeQuest 2023",
-      "date": "Nov 2023",
-      "awarder": "Bright Riders School",
-      "summary": "Competed against 15 other programmers to solve two Leetcode programming problems in Python in under 3 hours, with a focus on speed, correctness, readability, and time-space efficiency."
     }
   ],
   "sections": [
