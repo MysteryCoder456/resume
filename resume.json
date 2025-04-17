@@ -121,12 +121,13 @@
   "projects": [
     {
       "keywords": [
-        "C/C++",
-        "OpenGL"
+        "Flutter",
+        "Dart",
+        "Firebase"
       ],
-      "description": "Developed a path tracing renderer, inspired by the book Physically Based Rendering. Leveraged OpenGL for rendering pipelines and applied advanced math concepts like geometry for accurate, physically-based light ray simulation. Demonstrated expertise in graphics programming by creating realistic rendering of 3D scenes using path tracing algorithms.",
-      "name": "Path Tracing Renderer",
-      "url": "https://github.com/MysteryCoder456/path_tracer_c"
+      "description": "Developed, deployed and marketed a mobile app designed to connect college students and young entrepreneurs based on complementary skills and shared business interests. Featuring professional networking combined with Tinder-style swiping interface for intuitive user experience. Successfully launched MVP at UW–Madison, attracting 100+ users within initial deployment period.",
+      "name": "Flux",
+      "url": "https://linktr.ee/flux_app"
     },
     {
       "keywords": [
@@ -146,8 +147,7 @@
       "keywords": [
         "Flutter",
         "Dart",
-        "Firebase",
-        "OAuth"
+        "Firebase"
       ],
       "name": "HeLP@MPS",
       "url": "https://github.com/Ideal-Goggles/stem-2022",
