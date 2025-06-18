@@ -123,7 +123,8 @@
       "keywords": [
         "Flutter",
         "Dart",
-        "Firebase"
+        "Firebase",
+        "Python"
       ],
       "description": "Developed, deployed and marketed a mobile app designed to connect college students and young entrepreneurs based on complementary skills and shared business interests. Featuring professional networking combined with Tinder-style swiping interface for intuitive user experience. Successfully launched MVP at UW–Madison, attracting 100+ users within initial deployment period.",
       "name": "Flux",
@@ -131,27 +132,26 @@
     },
     {
       "keywords": [
+        "C",
+        "OpenGL",
+        "GLSL"
+      ],
+      "description": "Developed a path tracing renderer, inspired by the book Physically Based Rendering. Leveraged OpenGL for rendering pipelines and applied advanced math concepts like geometry, vector mathematics, calculus for accurate, physically-based light ray simulations of real world objects.",
+      "url": "https://github.com/MysteryCoder456/path_tracer_c",
+      "name": "Path Tracing Renderer"
+    },
+    {
+      "keywords": [
         "Python",
         "Flask",
         "JavaScript",
-        "HTML5/Tailwind",
         "WebSockets",
         "PostgreSQL",
         "Docker"
       ],
       "name": "Blitz Board",
-      "description": "A real-time multiplayer typing game nearly 300 total games played, inspired by my passion for typing. It brings competitive typists together for live typing tests, featuring performance tracking and leaderboards to foster a community of speed and accuracy enthusiasts.",
+      "description": "A real-time multiplayer typing game powered by WebSockets with nearly 300 total games played, inspired by my passion for typing. Features performance tracking and leaderboards to foster a community of speed and accuracy enthusiasts. Deployed to the web using Nginx and Docker containers.",
       "url": "https://blitz.codeboi.dev"
-    },
-    {
-      "keywords": [
-        "Flutter",
-        "Dart",
-        "Firebase"
-      ],
-      "name": "HeLP@MPS",
-      "url": "https://github.com/Ideal-Goggles/stem-2022",
-      "description": "A cross-platform app designed to combat food waste and unhealthy eating habits. Users post meal photos to receive ratings from the community, earning points and optionally competing within school groups. School staff can track and analyze food waste data for entire classes or grades using integrated tools."
     }
   ],
   "awards": [
