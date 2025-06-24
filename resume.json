@@ -34,6 +34,18 @@
   ],
   "work": [
     {
+      "highlights": [
+        "Used React and SPFx to build a timesheet tracker deployed on the company's SharePoint intranet for 30+ field technicians, supporting their transition to a paperless workflow and future SAP integration.",
+        "Currently working with the insurance department to develop an app to streamline vehicle inventory and insurance processes, involving data modeling, requirement analysis, integration with SharePoint APIs.",
+        "Actively gaining hands-on experience with Jira, sprint planning, and stakeholder meetings, while learning corporate IT workflows and gaining exposure to business units' systems."
+      ],
+      "company": "Al Masaood LLC",
+      "position": "Software Developer Intern",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "startDate": "May 2025",
+      "endDate": "Present"
+    },
+    {
       "company": "Data Science for Sustainable Development @ UW-Madison",
       "location": "Madison, WI, USA",
       "position": "Student Developer",
@@ -45,27 +57,15 @@
       ]
     },
     {
-      "company": "The Godspeed Company",
+      "highlights": [
+        "Led a team of developers using React and Next.js to build a platform connecting teens with career opportunities, with a backend in Python/Django that matches users to roles based on a personality quiz.",
+        "Scraped 13,000+ LinkedIn profiles using Python and Selenium to analyze the target audience and support outreach efforts to raise awareness about our company."
+      ],
+      "endDate": "Aug 2024",
+      "startDate": "Jun 2024",
       "location": "Abu Dhabi, United Arab Emirates",
       "position": "Co-founder, Lead Web Developer",
-      "startDate": "Jun 2024",
-      "endDate": "Aug 2024",
-      "highlights": [
-        "Organized and led a team of full-stack developers that used React and Next.js to build a website that connects teenagers with professional opportunities they're passionate about.",
-        "Used Python and Django to create a backend service that takes responses from a personality quiz and suggests careers that the quiz taker may like.",
-        "Scraped 13,000+ LinkedIn profiles using Python/Selenium to determine target audience and raise awareness about our company."
-      ]
-    },
-    {
-      "company": "Class Digital Leader",
-      "position": "Leadership Experience in High School",
-      "location": "Abu Dhabi, United Arab Emirates",
-      "startDate": "May 2021",
-      "endDate": "Mar 2022",
-      "highlights": [
-        "Mentored 18 classmates on technology and IT, while presenting weekly reports on issues to IT staff.",
-        "Recognized as \"Best Digital Leader\" for the 2021-2022 academic year for leadership in tech education."
-      ]
+      "company": "The Godspeed Company"
     }
   ],
   "skills": [
@@ -121,12 +121,13 @@
   "projects": [
     {
       "keywords": [
-        "Flutter",
-        "Dart",
+        "Swift",
+        "SwiftUI",
         "Firebase",
-        "Python"
+        "Python",
+        "Xcode Cloud"
       ],
-      "description": "Developed, deployed and marketed a mobile app designed to connect college students and young entrepreneurs based on complementary skills and shared business interests. Featuring professional networking combined with Tinder-style swiping interface for intuitive user experience. Successfully launched MVP at UW–Madison, attracting 100+ users within initial deployment period.",
+      "description": "Developed, deployed and marketed a mobile app designed to connect college students and young entrepreneurs based on complementary skills and shared business interests. Featuring professional networking combined with Tinder-style swiping interface. Launched MVP at UW–Madison, attracting 100+ users within initial deployment period with plans to expand over the summer.",
       "name": "Flux",
       "url": "https://linktr.ee/flux_app"
     },
@@ -150,7 +151,7 @@
         "Docker"
       ],
       "name": "Blitz Board",
-      "description": "A real-time multiplayer typing game powered by WebSockets with nearly 300 total games played, inspired by my passion for typing. Features performance tracking and leaderboards to foster a community of speed and accuracy enthusiasts. Deployed to the web using Nginx and Docker containers.",
+      "description": "A real-time multiplayer typing game powered by WebSockets with 300+ games played. Features performance tracking and leaderboards. Self-hosted and deployed to the web using Nginx and Docker containers.",
       "url": "https://blitz.codeboi.dev"
     }
   ],
