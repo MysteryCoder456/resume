@@ -6,7 +6,7 @@
   "basics": {
     "name": "Rehatbir Singh",
     "email": "rehatbir.singh@gmail.com",
-    "website": "https://codeboi.dev",
+    "website": "Personal Site: https://codeboi.dev",
     "location": {
       "address": "Madison, WI"
     },
@@ -53,7 +53,7 @@
       "endDate": "Dec 2024",
       "highlights": [
         "Contributed to Red-CORAL, an open-source crime visualization tool for organized crime in Central America aligned with UN SDG 16, by developing a statistics dashboard using React and Firebase.",
-        "Learned to integrate Node.js modules like Leaflet for geospatial visualization and Lucide for custom icons, while attending biweekly workshops on technical skills and professional development."
+        "Integrated Node.js modules like Leaflet for geospatial visualization and Lucide for custom icons. Attended biweekly workshops on technical skills and professional development."
       ]
     },
     {
@@ -109,7 +109,7 @@
     },
     {
       "keywords": [
-        "Quicker Learner",
+        "Quick Learner",
         "Communication",
         "Teamwork",
         "Problem Solving"
