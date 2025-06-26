@@ -6,7 +6,7 @@
   "basics": {
     "name": "Rehatbir Singh",
     "email": "rehatbir.singh@gmail.com",
-    "website": "github.com/mysterycoder456",
+    "website": "https://codeboi.dev",
     "location": {
       "address": "Madison, WI"
     },
@@ -109,11 +109,10 @@
     },
     {
       "keywords": [
-        "Problem Solving",
+        "Quicker Learner",
         "Communication",
         "Teamwork",
-        "Making Great Coffee",
-        "Playing the Guitar"
+        "Problem Solving"
       ],
       "name": "Others"
     }
@@ -127,9 +126,9 @@
         "Python",
         "Xcode Cloud"
       ],
-      "description": "Developed, deployed and marketed a mobile app designed to connect college students and young entrepreneurs based on complementary skills and shared business interests. Featuring professional networking combined with Tinder-style swiping interface. Launched MVP at UW–Madison, attracting 100+ users within initial deployment period with plans to expand over the summer.",
       "name": "Flux",
-      "url": "https://linktr.ee/flux_app"
+      "url": "https://linktr.ee/flux_app",
+      "description": "Launched a mobile app MVP at UW–Madison to connect college entrepreneurs based on complementary skills and shared business interests, attracting 100+ users during the initial deployment period. Built with Flutter and Firebase, the app combines a Tinder-like swiping interface with LinkedIn-style professional networking. Currently migrating to Swift to adopt Apple’s new Liquid Glass design language."
     },
     {
       "keywords": [
