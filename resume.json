@@ -35,7 +35,7 @@
   "work": [
     {
       "highlights": [
-        "Used React and SPFx to build a timesheet tracker deployed on the company's SharePoint intranet for 30+ field technicians, supporting their transition to a paperless workflow and future SAP integration.",
+        "Built and deployed a React/SPFx timesheet tracker used by 30+ technicians to the company's SharePoint intranet, reducing paperwork and preparing for SAP integration.",
         "Currently working with the insurance department to develop an app to streamline vehicle inventory and insurance processes, involving data modeling, requirement analysis, integration with SharePoint APIs.",
         "Actively gaining hands-on experience with Jira, sprint planning, and stakeholder meetings, while learning corporate IT workflows and gaining exposure to business units' systems."
       ],
@@ -59,7 +59,7 @@
     {
       "highlights": [
         "Led a team of developers using React and Next.js to build a platform connecting teens with career opportunities, with a backend in Python/Django that matches users to roles based on a personality quiz.",
-        "Scraped 13,000+ LinkedIn profiles using Python and Selenium to analyze the target audience and support outreach efforts to raise awareness about our company."
+        "Web scraped 13,000+ LinkedIn profiles using Python and Selenium to analyze the target audience and support outreach efforts to raise awareness about our company."
       ],
       "endDate": "Aug 2024",
       "startDate": "Jun 2024",
@@ -109,10 +109,11 @@
     },
     {
       "keywords": [
-        "Quick Learner",
+        "Problem Solving",
         "Communication",
         "Teamwork",
-        "Problem Solving"
+        "Brewing Specialty Coffee",
+        "Playing Guitar"
       ],
       "name": "Others"
     }
@@ -128,7 +129,7 @@
       ],
       "name": "Flux",
       "url": "https://linktr.ee/flux_app",
-      "description": "Launched a mobile app MVP at UW–Madison to connect college entrepreneurs based on complementary skills and shared business interests, attracting 100+ users during the initial deployment period. Built with Flutter and Firebase, the app combines a Tinder-like swiping interface with LinkedIn-style professional networking. Currently migrating to Swift to adopt Apple’s new Liquid Glass design language."
+      "description": "Launched a mobile app MVP at UW–Madison to connect college entrepreneurs based on complementary skills and shared business interests, attracting 100+ users during the initial deployment period. Built with Flutter and Firebase, the app combines a Tinder-like swiping interface with LinkedIn-style networking features. Currently migrating to Swift to adopt Apple’s new Liquid Glass design language."
     },
     {
       "keywords": [
@@ -136,7 +137,7 @@
         "OpenGL",
         "GLSL"
       ],
-      "description": "Developed a path tracing renderer, inspired by the book Physically Based Rendering. Leveraged OpenGL for rendering pipelines and applied advanced math concepts like geometry, vector mathematics, calculus for accurate, physically-based light ray simulations of real world objects.",
+      "description": "Developed a path tracing renderer, inspired by the book Physically Based Rendering. Leveraged OpenGL for rendering pipelines and applied advanced math concepts like geometry, vector mathematics, calculus for accurate, physically based light ray simulations of real-world objects.",
       "url": "https://github.com/MysteryCoder456/path_tracer_c",
       "name": "Path Tracing Renderer"
     },
@@ -147,10 +148,10 @@
         "JavaScript",
         "WebSockets",
         "PostgreSQL",
-        "Docker"
+        "Redis"
       ],
       "name": "Blitz Board",
-      "description": "A real-time multiplayer typing game powered by WebSockets with 300+ games played. Features performance tracking and leaderboards. Self-hosted and deployed to the web using Nginx and Docker containers.",
+      "description": "A real-time multiplayer typing game with 300+ games played. Used Redis to manage game lobbies across load-balanced servers for scalability and session coordination. Self-hosted using Nginx and Docker containers.",
       "url": "https://blitz.codeboi.dev"
     }
   ],
@@ -173,8 +174,8 @@
     "profile",
     "education",
     "work",
-    "skills",
     "projects",
+    "skills",
     "awards"
   ]
 }
