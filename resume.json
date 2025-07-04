@@ -16,28 +16,28 @@
     {
       "institution": "University of Wisconsin-Madison",
       "location": "Madison, WI, USA",
-      "area": "Computer Sciences and Data Science",
+      "area": "Computer Science and Data Science",
       "startDate": "Sep 2024",
       "endDate": "May 2028",
       "studyType": "BS",
-      "gpa": "4.0/4.0 (Cumulative)"
+      "gpa": "4.0 / 4.0"
     },
     {
       "institution": "Mayoor Private School",
       "location": "Abu Dhabi, United Arab Emirates",
       "studyType": "Indian Central Board of Secondary Education",
       "area": "Science Stream",
-      "gpa": "97.2/100",
       "startDate": "Apr 2020",
-      "endDate": "Mar 2024"
+      "endDate": "Mar 2024",
+      "gpa": "3.8 / 4.0"
     }
   ],
   "work": [
     {
       "highlights": [
-        "Built and deployed a React/SPFx timesheet tracker used by 30+ technicians to the company's SharePoint intranet, reducing paperwork and preparing for SAP integration.",
-        "Currently working with the insurance department to develop an app to streamline vehicle inventory and insurance processes, involving data modeling, requirement analysis, integration with SharePoint APIs.",
-        "Actively gaining hands-on experience with Jira, sprint planning, and stakeholder meetings, while learning corporate IT workflows and gaining exposure to business units' systems."
+        "Built and deployed a React/SPFx timesheet tracker used by 30+ technicians to the company's SharePoint intranet, supporting SAP integration and the company-wide goal of going paperless.",
+        "Partnered with the insurance department to develop an app to streamline vehicle inventory and insurance processes, involving data modeling, requirement analysis, integration with SharePoint APIs.",
+        "Currently developing a RAG-based legal chatbot using FastAPI and React to assist with contract review; estimated to save the legal department 8 hours/week using retrieval-augmented review."
       ],
       "company": "Al Masaood LLC",
       "position": "Software Developer Intern",
@@ -109,11 +109,10 @@
     },
     {
       "keywords": [
-        "Problem Solving",
-        "Communication",
-        "Teamwork",
-        "Brewing Specialty Coffee",
-        "Playing Guitar"
+        "Agile Methodologies (Scrum)",
+        "Jira",
+        "Stakeholder Communication",
+        "Sprint Planning"
       ],
       "name": "Others"
     }
