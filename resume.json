@@ -37,13 +37,13 @@
       "highlights": [
         "Built and deployed a React/SPFx timesheet tracker used by 30+ technicians to the company's SharePoint intranet, supporting SAP integration and the company-wide goal of going paperless.",
         "Partnered with the insurance department to develop an app to streamline vehicle inventory and insurance processes, involving data modeling, requirement analysis, integration with SharePoint APIs.",
-        "Currently developing a RAG-based legal chatbot using FastAPI and React to assist with contract review; estimated to save the legal department 8 hours/week using retrieval-augmented review."
+        "Aided the development of a RAG-based legal chatbot using FastAPI, React, Ollama to assist with contract review; estimated to save the legal department 8 hours/week using retrieval-augmented review."
       ],
       "company": "Al Masaood LLC",
       "position": "Software Developer Intern",
       "location": "Abu Dhabi, United Arab Emirates",
       "startDate": "May 2025",
-      "endDate": "Present"
+      "endDate": "Aug 2025"
     },
     {
       "company": "Data Science for Sustainable Development @ UW-Madison",
