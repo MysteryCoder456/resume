@@ -6,17 +6,14 @@
   "basics": {
     "name": "Rehatbir Singh",
     "email": "rehatbir.singh@gmail.com",
-    "website": "Personal Site: https://codeboi.dev",
-    "location": {
-      "address": "Madison, WI"
-    },
+    "website": "linkedin.com/in/rehatbir-singh-4805ba193 · github.com/mysterycoder456",
     "phone": "+1 (608) 213-0016"
   },
   "education": [
     {
       "institution": "University of Wisconsin-Madison",
       "location": "Madison, WI, USA",
-      "area": "Computer Science and Data Science",
+      "area": "Computer Science & Data Science (Dean's List)",
       "startDate": "Sep 2024",
       "endDate": "May 2028",
       "studyType": "BS",
@@ -35,9 +32,9 @@
   "work": [
     {
       "highlights": [
-        "Built and deployed a React/SPFx timesheet tracker used by 30+ technicians to the company's SharePoint intranet, supporting SAP integration and the company-wide goal of going paperless.",
+        "Built and deployed a React/SPFx timesheet tracker used by 30+ technicians to the company's SharePoint intranet, supporting SAP integration and saving 1500+ sheets of paper per week.",
         "Partnered with the insurance department to develop an app to streamline vehicle inventory and insurance processes, involving data modeling, requirement analysis, integration with SharePoint APIs.",
-        "Aided the development of a RAG-based legal chatbot using FastAPI, React, Ollama to assist with contract review; estimated to save the legal department 8 hours/week using retrieval-augmented review."
+        "Aided the development of a legal chatbot using FastAPI, React, Ollama and using Retrieval Augmented Generation to assist with contract review, saving the legal department 8 hours/week."
       ],
       "company": "Al Masaood LLC",
       "position": "Software Developer Intern",
@@ -127,8 +124,8 @@
         "Xcode Cloud"
       ],
       "name": "Flux",
-      "url": "https://linktr.ee/flux_app",
-      "description": "Launched a mobile app MVP at UW–Madison to connect college entrepreneurs based on complementary skills and shared business interests, attracting 100+ users during the initial deployment period. Built with Flutter and Firebase, the app combines a Tinder-like swiping interface with LinkedIn-style networking features. Currently migrating to Swift to adopt Apple’s new Liquid Glass design language."
+      "url": "linktr.ee/flux_app",
+      "description": "Launched a mobile app MVP at UW–Madison to connect college entrepreneurs based on complementary skills and shared business interests, attracting 100+ users during the initial deployment period. Built with SwiftUI and Firebase, the app combines a Tinder-like swiping interface with LinkedIn-style networking features."
     },
     {
       "keywords": [
@@ -137,7 +134,7 @@
         "GLSL"
       ],
       "description": "Developed a path tracing renderer, inspired by the book Physically Based Rendering. Leveraged OpenGL for rendering pipelines and applied advanced math concepts like geometry, vector mathematics, calculus for accurate, physically based light ray simulations of real-world objects.",
-      "url": "https://github.com/MysteryCoder456/path_tracer_c",
+      "url": "github.com/MysteryCoder456/path_tracer_c",
       "name": "Path Tracing Renderer"
     },
     {
@@ -151,7 +148,7 @@
       ],
       "name": "Blitz Board",
       "description": "A real-time multiplayer typing game with 300+ games played. Used Redis to manage game lobbies across load-balanced servers for scalability and session coordination. Self-hosted using Nginx and Docker containers.",
-      "url": "https://blitz.codeboi.dev"
+      "url": "blitz.codeboi.dev"
     }
   ],
   "awards": [
