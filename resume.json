@@ -148,7 +148,7 @@
         "Redis"
       ],
       "name": "Blitz Board",
-      "description": "A real-time multiplayer typing game with 300+ games played. Used Redis to synchronize game lobbies across load-balanced Flask servers for seamless scalability. Self-hosted using Nginx and Docker containers.",
+      "description": "A real-time multiplayer typing game with 300+ games played. Used Redis to synchronize game lobbies across multiple load-balanced Flask servers for seamless scalability. Self-hosted using Nginx and Docker containers.",
       "url": "blitz.codeboi.dev"
     }
   ],
