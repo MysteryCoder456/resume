@@ -6,7 +6,7 @@
   "basics": {
     "name": "Rehatbir Singh",
     "email": "rehatbir.singh@gmail.com",
-    "website": "linkedin.com/in/rehatbir-singh-4805ba193 · github.com/mysterycoder456",
+    "website": "https://rehatsingh.cv",
     "phone": "+1 (608) 213-0016"
   },
   "education": [
@@ -32,37 +32,38 @@
   "work": [
     {
       "highlights": [
-        "Built and deployed a React/SPFx timesheet tracker used by 30+ technicians to the company's SharePoint intranet, supporting SAP integration and saving 1500+ sheets of paper per week.",
-        "Partnered with the insurance department to develop an app to streamline vehicle inventory and insurance processes, involving data modeling, requirement analysis, integration with SharePoint APIs.",
-        "Aided the development of a legal chatbot using FastAPI, React, Ollama and using Retrieval Augmented Generation to assist with contract review, saving the legal department 8 hours/week."
+        "Founded a social networking app for student entrepreneurs, matching users by complementary skills",
+        "Built and deployed the MVP with SwiftUI, Firebase, and Python, including real-time matching using AI recommendation engines",
+        "Grew to 100+ active users at UW–Madison, validating product demand and driving early adoption"
       ],
-      "company": "Al Masaood LLC",
-      "position": "Software Developer Intern",
-      "location": "Abu Dhabi, United Arab Emirates",
-      "startDate": "May 2025",
-      "endDate": "Aug 2025"
+      "company": "Flux",
+      "position": "Co-founder & Lead Software Engineer",
+      "location": "Madison, WI",
+      "startDate": "Feb 2025",
+      "endDate": "Present"
     },
     {
-      "company": "Data Science for Sustainable Development @ UW-Madison",
-      "location": "Madison, WI, USA",
-      "position": "Student Developer",
-      "startDate": "Sep 2024",
-      "endDate": "Dec 2024",
+      "company": "Al Masaood LLC",
+      "location": "Abu Dhabi, United Arab Emirates",
+      "position": "Software Developer Intern",
+      "startDate": "May 2025",
+      "endDate": "Aug 2025",
       "highlights": [
-        "Contributed to Red-CORAL, an open-source crime visualization tool for organized crime in Central America aligned with UN SDG 16, by developing a statistics dashboard using React and Firebase.",
-        "Integrated Node.js modules like Leaflet for geospatial visualization and Lucide for custom icons. Attended biweekly workshops on technical skills and professional development."
+        "Built and launched a React/SPFx timesheet tracker for 30+ technicians, saving 1,500+ sheets weekly through SAP-integrated SharePoint",
+        "Assisted development of a legal chatbot using FastAPI, React, and RAG, saving the legal team 8 hrs/wk",
+        "Partnered with the insurance department on an app for vehicle inventory and insurance, handling data modeling and SharePoint API integration"
       ]
     },
     {
       "highlights": [
-        "Led a team of developers using React and Next.js to build a platform connecting teens with career opportunities, with a backend in Python/Django that matches users to roles based on a personality quiz.",
-        "Web scraped 13,000+ LinkedIn profiles using Python and Selenium to analyze the target audience and support outreach efforts to raise awareness about our company."
+        "Developed a statistics dashboard for Red-CORAL, an open-source crime visualization tool for organized crime in Central America with over 1,200+ data points using React and Firebase",
+        "Integrated Node.js modules like Leaflet for geospatial visualization and Lucide for custom icons. Attended biweekly workshops on technical skills and professional development"
       ],
-      "endDate": "Aug 2024",
-      "startDate": "Jun 2024",
-      "location": "Abu Dhabi, United Arab Emirates",
-      "position": "Co-founder, Lead Web Developer",
-      "company": "The Godspeed Company"
+      "endDate": "Dec 2024",
+      "startDate": "Sep 2024",
+      "location": "Madison, WI, USA",
+      "position": "Student Developer",
+      "company": "Data Science for Sustainable Development @ UW-Madison"
     }
   ],
   "skills": [
@@ -123,9 +124,9 @@
         "Python",
         "Xcode Cloud"
       ],
-      "name": "Flux",
-      "url": "linktr.ee/flux_app",
-      "description": "Launched a mobile app MVP at UW–Madison to connect college entrepreneurs based on complementary skills and shared business interests, attracting 100+ users during the initial deployment period. Built with SwiftUI and Firebase, the app combines a Tinder-like swiping interface with LinkedIn-style networking features."
+      "name": "FreeVoIP",
+      "description": "Deployed a decentralized peer-to-peer video calling app with secure contact sharing, eliminating the need for central servers. Built cross-platform with Rust and React (via Tauri) and leveraged the Iroh framework for real-time, peer-to-peer network transport.",
+      "url": "rehatsingh.cv/freevoip"
     },
     {
       "keywords": [
@@ -147,7 +148,7 @@
         "Redis"
       ],
       "name": "Blitz Board",
-      "description": "A real-time multiplayer typing game with 300+ games played. Used Redis to manage game lobbies across load-balanced servers for scalability and session coordination. Self-hosted using Nginx and Docker containers.",
+      "description": "A real-time multiplayer typing game with 300+ games played. Used Redis to synchronize game lobbies across load-balanced Flask servers for seamless scalability. Self-hosted using Nginx and Docker containers.",
       "url": "blitz.codeboi.dev"
     }
   ],
