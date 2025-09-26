@@ -118,11 +118,11 @@
   "projects": [
     {
       "keywords": [
-        "Swift",
-        "SwiftUI",
-        "Firebase",
-        "Python",
-        "Xcode Cloud"
+        "Rust",
+        "TypeScript",
+        "Tauri",
+        "React.js",
+        "Iroh"
       ],
       "name": "FreeVoIP",
       "description": "Deployed a decentralized peer-to-peer video calling app with secure contact sharing, eliminating the need for central servers. Built cross-platform with Rust and React (via Tauri) and leveraged the Iroh framework for real-time, peer-to-peer network transport.",
@@ -149,7 +149,7 @@
       ],
       "name": "Blitz Board",
       "description": "A real-time multiplayer typing game with 300+ games played. Used Redis to synchronize game lobbies across multiple load-balanced Flask servers for seamless scalability. Self-hosted using Nginx and Docker containers.",
-      "url": "blitz.codeboi.dev"
+      "url": "blitz.rehatsingh.cv"
     }
   ],
   "awards": [
