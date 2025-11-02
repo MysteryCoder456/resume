@@ -32,9 +32,9 @@
   "work": [
     {
       "highlights": [
-        "Founded a social networking app for student entrepreneurs, matching users by complementary skills",
-        "Built and deployed the MVP with SwiftUI, Firebase, and Python, including real-time matching using AI recommendation engines",
-        "Grew to 100+ active users at UW–Madison, validating product demand and driving early adoption"
+        "Launched an iOS app to connect student entrepreneurs on campus by complementary skills and interests",
+        "Designed and implemented the app's frontend with SwiftUI, real-time matching, semantic recommendation algorithms, the document database and storage systems with Firebase",
+        "Led product direction and technical architecture, growing to 100+ active users within a few weeks of release"
       ],
       "company": "Flux",
       "position": "Co-founder & Lead Software Engineer",
