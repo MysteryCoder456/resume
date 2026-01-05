@@ -15,7 +15,7 @@
       "location": "Madison, WI, USA",
       "area": "Computer Science & Data Science (Dean's List)",
       "startDate": "Sep 2024",
-      "endDate": "May 2028",
+      "endDate": "May 2027",
       "studyType": "BS",
       "gpa": "4.0 / 4.0"
     },
@@ -32,9 +32,9 @@
   "work": [
     {
       "highlights": [
-        "Launched an iOS app to connect student entrepreneurs on campus by complementary skills and interests",
-        "Designed and implemented the app's frontend with SwiftUI, real-time matching, semantic recommendation algorithms, the document database and storage systems with Firebase",
-        "Led product direction and technical architecture, growing to 100+ active users within a few weeks of release"
+        "Led product development for an app connecting student entrepreneurs by complementary skills, growing to 70+ MAU through rapid iteration and user feedback",
+        "Made key decisions including adopting card-based profiles to enable future features and switching from Flutter to SwiftUI after validating iOS-dominant market to improve UX and development velocity",
+        "Designed and implemented a semantic matching system using text embeddings, enabling flexible representations of users' skills and experiences"
       ],
       "company": "Flux",
       "position": "Co-founder & Lead Software Engineer",
@@ -68,51 +68,37 @@
   ],
   "skills": [
     {
-      "name": "Programming",
       "level": "",
       "keywords": [
-        "Python",
-        "Swift",
         "JavaScript/TypeScript",
-        "C/C++",
-        "Rust",
-        "Java",
-        "Dart",
-        "Git (VCS)"
-      ]
+        "React.js",
+        "Tailwind",
+        "Swift",
+        "SwiftUI"
+      ],
+      "name": "Frontend"
     },
     {
       "keywords": [
-        "Django",
+        "Python",
         "Flask",
-        "SQLAlchemy",
-        "SwiftUI",
-        "React",
-        "Next.js",
-        "Flutter",
-        "OpenGL",
-        "Godot"
+        "Django",
+        "Rust",
+        "Node.js",
+        "Next.js"
       ],
-      "name": "Libraries"
+      "name": "Backend"
     },
     {
       "keywords": [
         "Docker",
         "Nginx",
+        "Linux",
         "PostgreSQL",
         "MySQL",
-        "Linux"
+        "Firebase"
       ],
-      "name": "Technologies"
-    },
-    {
-      "keywords": [
-        "Agile Methodologies (Scrum)",
-        "Jira",
-        "Stakeholder Communication",
-        "Sprint Planning"
-      ],
-      "name": "Others"
+      "name": "Infrastructure"
     }
   ],
   "projects": [
@@ -125,31 +111,31 @@
         "Iroh"
       ],
       "name": "FreeVoIP",
-      "description": "Deployed a decentralized peer-to-peer video calling app with secure contact sharing, eliminating the need for central servers. Built cross-platform with Rust and React (via Tauri) and leveraged the Iroh framework for real-time, peer-to-peer network transport.",
+      "description": "Developed a decentralized peer-to-peer video calling app using Rust, Tauri, and Iroh, eliminating centralized services. Designed secure contact sharing, debugged a custom media pipeline, and resolved high-throughput Rust-JS data transfer limitations.",
       "url": "rehatsingh.cv/freevoip"
     },
     {
       "keywords": [
-        "C",
-        "OpenGL",
-        "GLSL"
+        "Python",
+        "HTML/CSS",
+        "JavaScript",
+        "Flask",
+        "PostgreSQL",
+        "Redis"
       ],
-      "description": "Developed a path tracing renderer, inspired by the book Physically Based Rendering. Leveraged OpenGL for rendering pipelines and applied advanced math concepts like geometry, vector mathematics, calculus for accurate, physically based light ray simulations of real-world objects.",
-      "url": "github.com/MysteryCoder456/path_tracer_c",
-      "name": "Path Tracing Renderer"
+      "description": "Built a real-time multiplayer typing game using WebSockets and Redis-backed shared state to synchronize game lobbies across multiple Flask servers. Identified and debugged client desynchronization issues under concurrent updates. Containerized the system using Docker and self-hosted it using Nginx.",
+      "url": "blitz.rehatsingh.cv",
+      "name": "Blitz Board"
     },
     {
       "keywords": [
         "Python",
-        "Flask",
-        "JavaScript",
-        "WebSockets",
-        "PostgreSQL",
-        "Redis"
+        "Discord API",
+        "PostgreSQL"
       ],
-      "name": "Blitz Board",
-      "description": "A real-time multiplayer typing game with 300+ games played. Used Redis to synchronize game lobbies across multiple load-balanced Flask servers for seamless scalability. Self-hosted using Nginx and Docker containers.",
-      "url": "blitz.rehatsingh.cv"
+      "name": "Sparta Bot",
+      "url": "github.com/SpartaDevTeam/SpartaBot",
+      "description": "Built and maintained an open-source Discord bot used by 150,000+ users across 300+ communities, designed as a customizable, free alternative to MEE6. Implemented scalable background task systems for timers, polls, and reminders, and led a full architectural rewrite during Discord.py deprecation to ensure long-term stability."
     }
   ],
   "awards": [
@@ -172,7 +158,7 @@
     "education",
     "work",
     "projects",
-    "skills",
-    "awards"
+    "awards",
+    "skills"
   ]
 }
