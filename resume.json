@@ -112,7 +112,7 @@
       ],
       "name": "FreeVoIP",
       "description": "Developed a decentralized peer-to-peer video calling app using Rust, Tauri, and Iroh, eliminating centralized services. Designed secure contact sharing, debugged a custom media pipeline, and resolved high-throughput Rust-JS data transfer limitations.",
-      "url": "rehatsingh.cv/freevoip"
+      "url": "https://rehatsingh.cv/freevoip"
     },
     {
       "keywords": [
@@ -124,18 +124,18 @@
         "Redis"
       ],
       "description": "Built a real-time multiplayer typing game using WebSockets and Redis-backed shared state to synchronize game lobbies across multiple Flask servers. Identified and debugged client desynchronization issues under concurrent updates. Containerized the system using Docker and self-hosted it using Nginx.",
-      "url": "blitz.rehatsingh.cv",
+      "url": "https://blitz.rehatsingh.cv",
       "name": "Blitz Board"
     },
     {
       "keywords": [
-        "Python",
-        "Discord API",
-        "PostgreSQL"
+        "C",
+        "OpenGL",
+        "GLSL"
       ],
-      "name": "Sparta Bot",
-      "url": "github.com/SpartaDevTeam/SpartaBot",
-      "description": "Built and maintained an open-source Discord bot used by 150,000+ users across 300+ communities, designed as a customizable, free alternative to MEE6. Implemented scalable background task systems for timers, polls, and reminders, and led a full architectural rewrite during Discord.py deprecation to ensure long-term stability."
+      "name": "Path Tracing Renderer",
+      "url": "https://github.com/MysteryCoder456/path_tracer_c",
+      "description": "Developed a Monte Carlo path tracing renderer using C and OpenGL, implementing BSDF-based light transport and adapting a recursive CPU-bound algorithm to an iterative GLSL implementation to support multi-bounce light accumulation on the GPU."
     }
   ],
   "awards": [
