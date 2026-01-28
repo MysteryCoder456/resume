@@ -18,15 +18,6 @@
       "endDate": "May 2027",
       "studyType": "BS",
       "gpa": "4.0 / 4.0"
-    },
-    {
-      "institution": "Mayoor Private School",
-      "location": "Abu Dhabi, United Arab Emirates",
-      "studyType": "Indian Central Board of Secondary Education",
-      "area": "Science Stream",
-      "startDate": "Apr 2020",
-      "endDate": "Mar 2024",
-      "gpa": "3.8 / 4.0"
     }
   ],
   "work": [
@@ -56,8 +47,8 @@
     },
     {
       "highlights": [
-        "Developed a statistics dashboard for Red-CORAL, an open-source crime visualization tool for organized crime in Central America with over 1,200+ data points using React and Firebase",
-        "Integrated Node.js modules like Leaflet for geospatial visualization and Lucide for custom icons. Attended biweekly workshops on technical skills and professional development"
+        "Built a statistics dashboard for the open-source Red-CORAL crime visualization project, analyzing 1,200+ data points using React and Firebase",
+        "Designed a modular filtering system using React Reducers, enabling flexible data slicing and real-time geospatial visualization"
       ],
       "endDate": "Dec 2024",
       "startDate": "Sep 2024",
@@ -84,6 +75,7 @@
         "Flask",
         "Django",
         "Rust",
+        "Axum",
         "Node.js",
         "Next.js"
       ],
@@ -116,26 +108,25 @@
     },
     {
       "keywords": [
+        "Rust",
+        "Axum",
+        "libcamera"
+      ],
+      "name": "Security System",
+      "description": "Built an edge IoT security camera system on a Raspberry Pi, interfacing directly with the camera module via libcamera and implementing a multithreaded Rust pipeline to encode video frames and stream them over WebSockets to a browser-based dashboard. Achieved a stable 20 FPS real-time feed.",
+      "url": "https://github.com/MysteryCoder456/security_cam"
+    },
+    {
+      "keywords": [
         "Python",
-        "HTML/CSS",
         "JavaScript",
         "Flask",
         "PostgreSQL",
         "Redis"
       ],
-      "description": "Built a real-time multiplayer typing game using WebSockets and Redis-backed shared state to synchronize game lobbies across multiple Flask servers. Identified and debugged client desynchronization issues under concurrent updates. Containerized the system using Docker and self-hosted it using Nginx.",
       "url": "https://blitz.rehatsingh.cv",
-      "name": "Blitz Board"
-    },
-    {
-      "keywords": [
-        "C",
-        "OpenGL",
-        "GLSL"
-      ],
-      "name": "Path Tracing Renderer",
-      "url": "https://github.com/MysteryCoder456/path_tracer_c",
-      "description": "Developed a Monte Carlo path tracing renderer using C and OpenGL, implementing BSDF-based light transport and adapting a recursive CPU-bound algorithm to an iterative GLSL implementation to support multi-bounce light accumulation on the GPU."
+      "name": "Blitz Board",
+      "description": "Built a real-time multiplayer typing game using WebSockets and Redis-backed shared state to synchronize game lobbies across multiple Flask servers. Identified and debugged client desynchronization issues under concurrent updates. Containerized the system using Docker and self-hosted it using Nginx."
     }
   ],
   "awards": [
@@ -147,7 +138,7 @@
     },
     {
       "title": "Dean's List",
-      "date": "Fall 2024, Spring 2025",
+      "date": "Fall 2024 - Fall 2025",
       "awarder": "University of Wisconsin-Madison",
       "summary": "Recognized on the Dean’s List at the University of Wisconsin–Madison for achieving a 4.0 GPA, signifying academic excellence."
     }
