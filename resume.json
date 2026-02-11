@@ -108,6 +108,16 @@
     },
     {
       "keywords": [
+        "C",
+        "OpenGL",
+        "GLSL"
+      ],
+      "name": "Path Tracing Renderer",
+      "description": "Developed a Monte Carlo path tracing renderer using C and OpenGL, implementing BSDF-based light transport and adapting a recursive CPU-bound algorithm to an iterative GLSL implementation to support multi-bounce light accumulation on the GPU.",
+      "url": "https://github.com/MysteryCoder456/path_tracer_c"
+    },
+    {
+      "keywords": [
         "Python",
         "JavaScript",
         "Flask",
@@ -117,16 +127,6 @@
       "name": "Blitz Board",
       "description": "Built a real-time multiplayer typing game using WebSockets and Redis-backed shared state to synchronize game lobbies across multiple Flask servers. Identified and debugged client desynchronization issues under concurrent updates. Containerized the system using Docker and self-hosted it using Nginx.",
       "url": "https://blitz.rehatsingh.cv"
-    },
-    {
-      "keywords": [
-        "Python",
-        "OpenCV",
-        "Sockets"
-      ],
-      "name": "Car Safety System",
-      "description": "Built a distributed car safety system to detect children left inside vehicles, implementing real-time, edge-side face and audio detection with a client app for live video viewing and alerts; designed a socket-based client–server architecture, and handled connection failures and diagnostics in a safety-critical context.",
-      "url": "https://github.com/MysteryCoder456/STEM-Project"
     }
   ],
   "awards": [
