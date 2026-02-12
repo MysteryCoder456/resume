@@ -23,7 +23,7 @@
   "work": [
     {
       "highlights": [
-        "Led product development for an app connecting student entrepreneurs by complementary skills, growing to 70+ MAU through rapid iteration and user feedback",
+        "Led product development for a personal app startup connecting student entrepreneurs by complementary skills, growing to 70+ MAU through rapid iteration and user feedback",
         "Made key decisions including adopting card-based profiles to enable future features and switching from Flutter to SwiftUI after validating iOS-dominant market to improve UX and development velocity",
         "Designed and implemented a semantic matching system using text embeddings, enabling flexible representations of users' skills and experiences"
       ],
@@ -97,14 +97,15 @@
     {
       "keywords": [
         "Rust",
-        "TypeScript",
         "Tauri",
         "React.js",
-        "Iroh"
+        "Iroh",
+        "Fish Audio",
+        "Gemini API"
       ],
-      "name": "FreeVoIP",
-      "description": "Developed a decentralized peer-to-peer video calling app using Rust, Tauri, and Iroh, eliminating centralized services. Designed secure contact sharing, debugged a custom media pipeline, and resolved high-throughput Rust-JS data transfer limitations.",
-      "url": "https://rehatsingh.cv/freevoip"
+      "name": "MindMerge",
+      "description": "Built a decentralized voice-controlled collaborative whiteboard for a 24h hackathon, implementing low-latency peer-to-peer state synchronization. Designed join-code–based swarm discovery using Gossip protocol. Integrated a voice-to-diagram pipeline generating structured SVG from natural language.",
+      "url": "https://rehatsingh.cv/mindmerge"
     },
     {
       "keywords": [
