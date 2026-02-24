@@ -108,14 +108,15 @@
       "url": "https://rehatsingh.cv/mindmerge"
     },
     {
+      "name": "Drippr",
       "keywords": [
-        "C",
-        "OpenGL",
-        "GLSL"
+        "Swift",
+        "SwiftUI",
+        "Supabase",
+        "RealityKit"
       ],
-      "name": "Path Tracing Renderer",
-      "description": "Developed a Monte Carlo path tracing renderer using C and OpenGL, implementing BSDF-based light transport and adapting a recursive CPU-bound algorithm to an iterative GLSL implementation to support multi-bounce light accumulation on the GPU.",
-      "url": "https://github.com/MysteryCoder456/path_tracer_c"
+      "url": "https://rehatsingh.cv/coffee",
+      "description": "Developed a coffee brewing app featuring guided multi-phase timers powered by dynamic state machines using Combine. Designed a declarative recipe composer for a variety of brewers, and integrated RealityKit to render interactive 3D brewing tools in AR."
     },
     {
       "keywords": [
@@ -138,10 +139,10 @@
       "summary": "Recognized for building & presenting Wavelength, an app that analyzes Spotify libraries to connect students with similar music tastes using data science techniques and social discovery algorithms."
     },
     {
-      "title": "Dean's List",
-      "date": "Fall 2024 - Fall 2025",
-      "awarder": "University of Wisconsin-Madison",
-      "summary": "Recognized on the Dean’s List at the University of Wisconsin–Madison for achieving a 4.0 GPA, signifying academic excellence."
+      "title": "Winner of iOS App Dev Challenge",
+      "awarder": "MDS UAE",
+      "summary": "Developed Earthify, an open-source sustainability marketplace app for recirculating used goods. Won first place overall and was a finalist in the environment category.",
+      "date": "Dec 2021"
     }
   ],
   "sections": [
